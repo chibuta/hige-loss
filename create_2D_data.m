@@ -1,3 +1,5 @@
+%
+%Credits to Prof. Emra on his Deep Learning course at METU
 function [x,y] = create_2D_data(N, sig)
 
 x1 = mvnrnd([0 0]',sig*[1 0 ; 0 1],N);
