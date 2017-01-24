@@ -1,3 +1,4 @@
+%Credits to Prof. Emra on his Deep Learning course at METU
 function w = minimize_hinge_loss(X, Y, w0)
 
 num_iters = 100;
