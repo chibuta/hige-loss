@@ -1,6 +1,6 @@
 # Hige Loss 
 
-<img src="math/hg.png" width="700" height="90" />
+<img src="math/hg.png" width="500" height="90" />
 
 Support vector machine and many maximum margin based models use the hinge loss.
 
@@ -16,7 +16,7 @@ subderivative). Subderivative generalizes the derivative to nondifferentiable fu
 
 This now becomes:
 
-<img src="math/subg.png" width="500" height="300" />
+<img src="math/subg.png" width="600" height="250" />
 
 
 Matlab implemetation of hige loss function
