@@ -1,6 +1,6 @@
 # Hige Loss 
 
-<img src="math/hg.png" width="500" height="90" />
+<img src="math/hg.png" width="550" height="70" />
 
 Support vector machine and many maximum margin based models use the hinge loss.
 
