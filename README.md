@@ -13,9 +13,9 @@ Below is a smaple output for linear separable data
 Loss:
 
 
-<img src="loss.png" width="500" height="300" />
+<img src="loss.png" width="400" height="250" />
 
 Visualise linear seperation:
 
 
-<img src="vs.png" width="500" height="300" />
+<img src="vs.png" width="400" height="250" />
