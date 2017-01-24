@@ -2,7 +2,13 @@
 
 Matlab implemetation of hige loss function
 
-Execute the main file. Below is a smaple output for linear separable data
+Execute the main file. 
+```sh
+>> main.m
+```
+
+Below is a smaple output for linear separable data
+
 
 Loss:
 
