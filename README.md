@@ -34,7 +34,7 @@ Loss:
 
 <img src="loss.png" width="400" height="250" />
 
-Visualise linear seperation:
+Visualise linear seperation using Hige loss function:
 
 
 <img src="vs.png" width="400" height="250" />
